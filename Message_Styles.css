@@ -1,0 +1,39 @@
+/*Stylesheet for the PostMessage and MessageBorad PHP
+documents */
+
+body {
+	background-color: lightsteelblue;
+}
+
+h1 {
+	font-size: 2.6em;
+	letter-spacing: 8px;
+	font-family: "Arial Black", sans-serif;
+	color: lightyellow;
+	text-shadow: 2px 2px 3px brown;
+
+}
+
+label {
+	font-size: 1.5em;
+	margin-right: 14px;
+	margin-left: 10px;
+}
+
+input[type='submit']{
+	background-color: orange;
+
+}
+
+input[type='reset']{
+	background-color: cornsilk;
+}
+
+a {
+	text-decoration: none;
+	color: orangered;
+	font-size: 1.2em;
+}
+
+
+
